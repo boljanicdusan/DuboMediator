@@ -1,0 +1,23 @@
+# API project
+src/DuboMediator.API/bin/*
+src/DuboMediator.API/obj/*
+
+# Application project
+src/DuboMediator.Application/bin/*
+src/DuboMediator.Application/obj/*
+
+# Domain project
+src/DuboMediator.Domain/bin/*
+src/DuboMediator.Domain/obj/*
+
+# Infrastructure project
+src/DuboMediator.Infrastructure/bin/*
+src/DuboMediator.Infrastructure/obj/*
+
+# Persistence project
+src/DuboMediator.Persistence/bin/*
+src/DuboMediator.Persistence/obj/*
+
+# Test Application project
+tests/DuboMediator.Application.UnitTests/bin/*
+tests/DuboMediator.Application.UnitTests/obj/*
